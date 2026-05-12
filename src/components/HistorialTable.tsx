@@ -132,7 +132,7 @@ export default function HistorialTable({
             </ResponsiveContainer>
           </div>
 
-          {/* ACTIONS */}
+          {/* Borrar todo */}
           <button onClick={borrarTodo} className="btn-danger mt-6">
             Borrar historial
           </button>
