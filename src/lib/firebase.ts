@@ -9,6 +9,7 @@ const firebaseConfig = {
   projectId: "XXX",
 };
 
+//We initialize the app
 const app = initializeApp(firebaseConfig);
 
 export const db = getFirestore(app);
