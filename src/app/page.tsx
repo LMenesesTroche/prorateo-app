@@ -125,6 +125,7 @@ export default function Landing() {
                   Historial Luz
                 </h2>
                 <p className="text-sm text-slate-500">Ver registros</p>
+                {/* </div> */}
               </div>
             </div>
 
