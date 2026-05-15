@@ -120,6 +120,7 @@ export default function Landing() {
                 <LineChart className="w-6 h-6 text-orange-700" />
               </div>
 
+              {/* <div> */}
               <div>
                 <h2 className="text-lg font-semibold text-slate-800">
                   Historial Luz
