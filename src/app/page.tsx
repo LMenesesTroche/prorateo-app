@@ -98,13 +98,13 @@ export default function Landing() {
               <div className="w-14 h-14 flex items-center justify-center rounded-full bg-blue-200">
                 <BarIcon className="w-7 h-7 text-blue-600" />
               </div>
-
               <div>
                 <h2 className="text-lg font-semibold text-slate-800">
                   Historial Agua
                 </h2>
                 <p className="text-sm text-slate-500">Ver registros</p>
-              </div>
+                {/* </div> */}
+              </div>{" "}
             </div>
 
             <ArrowRight className="text-cyan-600 group-hover:translate-x-1 transition" />
