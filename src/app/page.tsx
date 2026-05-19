@@ -95,6 +95,7 @@ export default function Landing() {
             className="group flex items-center justify-between p-6 rounded-2xl bg-cyan-50 hover:bg-cyan-100 transition shadow-sm cursor-pointer"
           >
             <div className="flex items-center gap-4">
+              {/* <div className="w-14 h-14 flex items-center justify-center rounded-full bg-blue-200"> */}
               <div className="w-14 h-14 flex items-center justify-center rounded-full bg-blue-200">
                 <BarIcon className="w-7 h-7 text-blue-600" />
               </div>
